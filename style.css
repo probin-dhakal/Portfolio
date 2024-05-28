@@ -715,6 +715,10 @@ p {
   padding: 20px;
   margin-bottom: 30px;
 }
+  .contact_card input {
+    background-color: #292c36;
+    
+  }
 
   footer {
     width: 100%;
